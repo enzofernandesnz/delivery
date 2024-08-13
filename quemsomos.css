@@ -1,0 +1,228 @@
+body {
+    font-family: "Quicksand", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #af5353;
+}
+a{
+    text-decoration: none;
+}
+li {
+    list-style: none;
+}
+#comeco{
+    background: linear-gradient(90deg, #af5353 0%, rgba(115,115,115,1) 100%);    height: 5vh;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #ffffff
+    
+}
+#comeco div{
+    display: flex;
+    margin-left: 32%;
+}
+
+
+#comeco div p {
+    margin-left: 30px;
+    text-align: center;
+}
+#pesquisa {
+    margin-left: 10px;
+    width: 35%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-right: 250px;
+}
+
+#pesquisa svg {
+    margin-left: 4px;
+    margin-top: 7px;
+    width: 17px;
+    height: 17px;
+}
+#botao23{
+    background: rgb(210,65,57);
+    background: linear-gradient(90deg, rgba(210,65,57,1) 0%, rgba(115,115,115,1) 100%);
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+#botao23 p{
+    padding-top: 3px;
+    font-size: 17px;
+    color: aliceblue;
+    padding-left: 45px;
+}
+aside{
+    width: 100% ;
+    height: 125vh;
+}
+#linhared23{
+    width: 200px;
+    height: 4px;
+    background-color: #c72f2f;
+}
+#caixa{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 235px;
+    width: 380px;
+    height: 380px;
+    background-color: #912a2a;
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+#caixa img{
+    position: relative;
+    margin-top: -70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+#caixa ul{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    padding-top: 50px;
+}
+#caixa:hover {
+    position: relative;
+    top: -5px;
+    transition: .4s;
+}
+#titulo  {
+    height: 90px;
+    font-size: 60px;
+    text-align: center;
+    align-items: center;
+    box-shadow: 3px 6px 6px rgba(0, 0, 0, 0.6);
+}
+
+#titulo span{
+    color: #ffffff;
+
+}  
+aside ul{
+    display: flex;
+} 
+
+#caixa2{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    width: 380px;
+    height: 380px;
+    background-color: #912a2a;
+    border-radius: 20px;
+    margin-top: 150px;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+#caixa2 img{
+    position: relative;
+    margin-top: -70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+#caixa2 ul{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    padding-top: 50px;
+}
+#caixa2:hover {
+    position: relative;
+    top: -5px;
+    transition: .4s;
+}
+#texto{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    padding-top: 70px;
+    margin-left: 30px;
+    font-weight: 800;
+
+}
+aside li{
+    text-align: center;
+    align-items: center;
+}
+
+#caixa3{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    width: 900px;
+    height: 250px;
+    background-color: #912a2a;
+    border-radius: 20px;
+    margin-top: 150px;
+    margin-left: 500px;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.6);
+    
+}
+
+
+#caixa3 img{
+    position: relative;
+    margin-top: -70px;
+    width: 150px;
+    height: 150px;
+    border-radius: 100%;
+}
+#caixa3 ul{
+    font-size: 25px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    margin-right: 30px;
+    padding-top: 50px;
+}
+#caixa3:hover {
+    position: relative;
+    top: -5px;
+    transition: .4s;
+}
+#caixa3 div svg{
+    width: 20px;
+    height: 20px;
+}
+#caixa3 div{
+    margin-left: 30px;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}

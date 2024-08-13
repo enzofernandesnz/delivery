@@ -1,0 +1,188 @@
+body{
+    font-family: "Quicksand", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #af5353;
+ 
+}
+li {
+    list-style: none;
+}
+span{
+    font-size: 13px;
+
+}
+p{
+    font-size: 20px;
+}
+
+#comeco{
+    background: linear-gradient(90deg, #af5353 0%, rgba(115,115,115,1) 100%);    height: 5vh;
+    display: flex;
+    align-items: center;
+    font-size: 13px;
+    color: #ffffff
+    
+}
+#comeco div{
+    display: flex;
+    margin-left: 32%;
+}
+
+
+#comeco div p {
+    margin-left: 30px;
+    text-align: center;
+}
+#pesquisa {
+    margin-left: 10px;
+    width: 35%;
+    height: 30px;
+    border-radius: 20px;
+    background-color: #ffffff;
+    margin-right: 250px;
+}
+
+#pesquisa svg {
+    margin-left: 4px;
+    margin-top: 7px;
+    width: 17px;
+    height: 17px;
+}
+
+aside{
+    height: 100%;
+    width: 90%;
+}
+nav{
+    height: 150px;
+    width: 90%;
+}
+
+#container{
+    display: flex;
+    margin-left: 150px;
+    height: 100vh;
+    align-items: center;
+    text-align: center;
+
+}
+#conteiner ul{
+    display: flex;
+    justify-content: space-around;
+}
+#caixa{
+    align-items: center;
+    display: flex;
+    text-decoration: none;
+    color: aliceblue;
+    margin-left: 72.5px;
+    width: 380px;
+    height: 180px;
+    background-color: #912a2a;
+    border-radius: 20px;
+    margin-top: 90px;
+    box-shadow: 3px 4px 4px rgba(0, 0, 0, 0.6);
+}
+
+#caixa:hover {
+    position: relative;
+    top: -5px;
+    transition: .4s;
+}
+
+a{
+    text-decoration: none;
+}
+#caixa ul {
+    margin-left: 10px;
+    align-items: center;
+    text-align: center;
+}
+
+
+#botao23{
+    background: rgb(210,65,57);
+    background: linear-gradient(90deg, rgba(210,65,57,1) 0%, rgba(115,115,115,1) 100%);
+    width: 200px;
+    height: 35px;
+    text-align: center;
+    align-items: center;
+    display: flex;
+}
+#botao23 p{
+    padding-top: 3px;
+    font-size: 17px;
+    color: aliceblue;
+    padding-left: 45px;
+}
+
+#linhared23{
+    width: 200px;
+    height: 4px;
+    background-color: #c72f2f;
+}
+
+#img1{
+   margin-left: 15px;
+   width: 200px;
+   height: 140px;
+}
+#img2{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img3{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img4{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img5{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img6{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img7{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img8{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img9{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img10{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img11{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+#img12{
+    margin-left: 15px;
+    width: 200px;
+    height: 140px;
+}
+
+
